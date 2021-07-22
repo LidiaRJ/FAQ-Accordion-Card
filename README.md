@@ -28,7 +28,8 @@ Build out a FAQ card using the accordion/collapsable containers. Users should be
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/LidiaRJ/FAQ-Accordion-Card.git)
+- Solution URL: [(https://github.com/LidiaRJ/FAQ-accordion-card)](https://github.com/LidiaRJ/FAQ-accordion-card)
+- Live site: [(https://lidiarj.github.io/FAQ-accordion-card/)](https://lidiarj.github.io/FAQ-accordion-card/)
 
 
 ## My process
